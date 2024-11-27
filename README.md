@@ -42,5 +42,11 @@ Install `reportlab` using the command:
 
 ```bash
 pip install reportlab
+```
+
+## Sample Screenshots
+![python_KJfLAtsCJX](https://github.com/user-attachments/assets/12ab51ed-ef74-4f1b-8de9-37b397c92058)
+![python_D6wF0WX7xz](https://github.com/user-attachments/assets/910407d2-0911-473a-bc18-97935d3bb17d)
+
 
  
